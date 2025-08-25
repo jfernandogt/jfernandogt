@@ -9,3 +9,11 @@ I am a software developer and passionate about technology. During my 12 years of
 
 ## Technologies:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,nestjs,express,firebase,docker,vercel,tailwind,html,css,bash,figma)](https://jfbarrios.com/contacto)
+
+## Links:
+[![Website](https://img.shields.io/badge/Website-jfbarrios.com-1DA1F2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://jfbarrios.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@jfbarrios-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jfbarrios/)
+
+## Contact:
+
+[![Email](https://img.shields.io/badge/me@jfbarrios.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:me@jfbarrios.com)
